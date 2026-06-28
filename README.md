@@ -19,10 +19,10 @@ A modern Android Calculator built using Java and XML in Android Studio.
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash](screenshots/splash%20screen.jpeg)
+![Splash](screenshots/splash.jpeg)
 
 ### Home Screen
-![Home](screenshots/home%20screen.jpeg)
+![Home](screenshots/home.jpeg)
 
 ## 👨‍💻 Developer
 
