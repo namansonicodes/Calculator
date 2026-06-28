@@ -16,6 +16,14 @@ A modern Android Calculator built using Java and XML in Android Studio.
 * Android Studio
 * Material Design
 
+## 📸 Screenshots
+
+### Splash Screen
+![Splash](screenshots/splash.png)
+
+### Home Screen
+![Home](screenshots/home.png)
+
 ## 👨‍💻 Developer
 
 **Naman Soni**
